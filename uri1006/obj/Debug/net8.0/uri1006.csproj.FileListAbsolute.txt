@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\bin\Debug\net8.0\uri1006.exe
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\bin\Debug\net8.0\uri1006.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\bin\Debug\net8.0\uri1006.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\bin\Debug\net8.0\uri1006.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\bin\Debug\net8.0\uri1006.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\uri1006.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\uri1006.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\uri1006.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\uri1006.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\uri1006.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\refint\uri1006.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\uri1006.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\uri1006.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1006\uri1006\obj\Debug\net8.0\ref\uri1006.dll
